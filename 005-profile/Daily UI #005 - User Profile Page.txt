@@ -1,0 +1,25 @@
+# Daily UI #005: User Profile Page
+
+> Hint: Design a user profile and be mindful of the most important data, names, imagery, placement, etc. Is it for a serious profile? A social profile? (It's up to you!)
+
+## What is my profile page for?
+
+My profile is for a user account on collaboration software website.
+
+## What is the attitude of this website?
+
+Sombre & corporate
+
+## What are the requirements of a website like that?
+
+- First Name
+- Last Name
+- Email Address
+- Profile Picture
+- Bio
+- Associated Projects
+- Status
+  - Available
+  - Offline
+  - Focus Mode
+  - (mode + text field for snarky subtitle)
