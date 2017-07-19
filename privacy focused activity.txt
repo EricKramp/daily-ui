@@ -1,3 +1,5 @@
+> Hint: Design settings for something. Is it for security or privacy settings? Game settings? What is it and what's important?  (It's up to you!)
+
 privacy focused activity tracker
 
 - settings
@@ -7,4 +9,4 @@ privacy focused activity tracker
 -- log out
 -- notifications
 -- privacy policy
--- 
+-- export data
