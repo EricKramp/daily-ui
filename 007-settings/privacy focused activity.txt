@@ -10,3 +10,7 @@ privacy focused activity tracker
   - notifications
   - privacy policy
   - export data
+
+
+
+@Daily_UI Day 7 Settings Page for a privacy focused activity tracking app #dailyui #007 #uidesign
