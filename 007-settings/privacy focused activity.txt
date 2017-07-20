@@ -3,10 +3,10 @@
 privacy focused activity tracker
 
 - settings
--- access to health data
--- opt in analytics
--- acct cancellation
--- log out
--- notifications
--- privacy policy
--- export data
+  - access to health data
+  - opt in analytics
+  - acct cancellation
+  - log out
+  - notifications
+  - privacy policy
+  - export data
