@@ -4,10 +4,16 @@ btn_play_pause.animationOptions =
 	curve: Spring(damping: 0.5)
 	time: 0.5
 
+icon_pause.visible = false
+
 txt_track_time.states.large =
 	scale: 1.5
 txt_track_time.animationOptions = 
 	time: 0.1
+
+# btn_play_pause.onTap ->
+# 	icon_play.visible = !icon_play.visible
+# 	icon_pause.visible = !icon_pause.visible
 
 btn_play_pause.onDrag ->
 	txt_track_time.animate("large")

@@ -2428,7 +2428,7 @@
                     "rotation" : 0,
                     "fillEnabled" : false,
                     "top" : 14,
-                    "borderWidth" : 1,
+                    "borderWidth" : 2,
                     "right" : -84,
                     "borderEnabled" : true,
                     "children" : [
@@ -2464,7 +2464,7 @@
                         "constraintsLocked" : false,
                         "left" : 64,
                         "bottom" : -8,
-                        "height" : 20,
+                        "height" : 16,
                         "fillGradient" : {
                           "end" : "rgba(0,0,0,0)",
                           "alpha" : 1,
@@ -2472,11 +2472,11 @@
                           "__class" : "LinearGradient",
                           "start" : "black"
                         },
-                        "width" : 20,
+                        "width" : 16,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
-                        "fillColor" : "rgba(0,170,255,0.5)",
+                        "fillColor" : "rgb(238, 68, 68)",
                         "borderColor" : "#222",
                         "centerAnchorY" : 0.9880952380952381,
                         "opacity" : 1,
@@ -2569,7 +2569,7 @@
                     "top" : null,
                     "right" : null,
                     "intrinsicHeight" : 24,
-                    "name" : null,
+                    "name" : "icon_pause",
                     "shadows" : [
                       {
                         "y" : 2,
@@ -2596,12 +2596,58 @@
                     },
                     "width" : 54,
                     "widthFactor" : null,
-                    "targetName" : null,
+                    "targetName" : "icon_pause",
                     "heightFactor" : null,
                     "fillColor" : "black",
                     "opacity" : 1,
                     "centerAnchorY" : 0.5,
                     "visible" : true
+                  },
+                  {
+                    "__class" : "SVGNode",
+                    "fillType" : "color",
+                    "originalFilename" : "play_arrow",
+                    "centerAnchorX" : 0.4910714285714285,
+                    "parentid" : "-}P1oAi'",
+                    "rotation" : 0,
+                    "locked" : false,
+                    "intrinsicWidth" : 24,
+                    "top" : null,
+                    "right" : null,
+                    "intrinsicHeight" : 24,
+                    "name" : "icon_play",
+                    "shadows" : [
+                      {
+                        "y" : 2,
+                        "enabled" : false,
+                        "blur" : 5,
+                        "x" : 0,
+                        "__class" : "Shadow",
+                        "color" : "rgba(0,0,0,0.25)"
+                      }
+                    ],
+                    "aspectRatioLocked" : true,
+                    "id" : "A?1u$\/@o",
+                    "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M8 5v14l11-7z\"><\/path><\/svg>",
+                    "constraintsLocked" : false,
+                    "left" : null,
+                    "bottom" : null,
+                    "height" : 54,
+                    "fillGradient" : {
+                      "end" : "rgba(0,0,0,0)",
+                      "alpha" : 1,
+                      "angle" : 0,
+                      "__class" : "LinearGradient",
+                      "start" : "black"
+                    },
+                    "width" : 54,
+                    "widthFactor" : null,
+                    "targetName" : "icon_play",
+                    "heightFactor" : null,
+                    "fillColor" : "black",
+                    "opacity" : 1,
+                    "centerAnchorY" : 0.5,
+                    "visible" : false
                   }
                 ],
                 "name" : "btn_play_pause",
@@ -2611,8 +2657,8 @@
                   {
                     "x" : 0,
                     "color" : "rgba(0,0,0,0.25)",
-                    "enabled" : false,
-                    "y" : 2,
+                    "enabled" : true,
+                    "y" : 0,
                     "__class" : "BoxShadow",
                     "inset" : false,
                     "blur" : 5
@@ -2633,7 +2679,7 @@
                 "widthFactor" : null,
                 "targetName" : "btn_play_pause",
                 "heightFactor" : null,
-                "fillColor" : "rgba(0,170,255,0.5)",
+                "fillColor" : "rgb(255, 255, 255)",
                 "borderColor" : "#222",
                 "centerAnchorY" : 0.4943820224719101,
                 "opacity" : 1,
@@ -4926,7 +4972,7 @@
         "height" : 667,
         "fillType" : "color",
         "targetName" : null,
-        "fillColor" : "#ffffff",
+        "fillColor" : "rgb(242, 242, 242)",
         "name" : null
       }
     ]
