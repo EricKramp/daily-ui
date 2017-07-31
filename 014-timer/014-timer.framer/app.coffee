@@ -37,32 +37,34 @@ icon_play.states =
 # 	icon_play.animate("default")	
 # 	btn_play.animate("default")
 
-# slider behavior
-slider.animate("default")
-slider.draggable = true
-slider.draggable.vertical = false
-slider.onDragEnd ->
-	slider.animate("default")
-
-# Setting Time
-sliderChunks = sliderChunks = slider.x / parseInt(slider_value.text)
-sliderStart = slider.x
-time = parseInt(slider_value.text)
-
-slider.onDragStart ->
-	
-
-slider.onDrag ->
-	if ((slider.x % sliderChunks) < 1)
-		if (slider.x < sliderStart)
-			time--
-		else
-			time++
+slider_knob.onMouseOver ->
+	slider_knob.animate
+		shadowBlur: 5
 		
-		if (time < 0)
-			time = 0
-			
-		slider_value.text = time
+slider_knob.onMouseOut ->
+	slider_knob.animate
+		shadowBlur: 0
+
+# Create slider
+slider = new SliderComponent
+	parent: panel_start
+	width: panel_start.width
+	min: 0
+	max: 20
+	value: 10
+	knobSize: 44
+	backgroundColor: "rgba(0,0,0,0)"
+slider.fill.backgroundColor = "rgba(0,0,0,0)"
+
+slider_knob.parent = slider.knob
+slider_knob.center()
+
+# Listen for slider value updates
+slider.onValueChange ->
+	newTime = Math.round(slider.value)
+	slider_value.text = newTime
+	countdown.text = newTime + ":00"
+
 
 # panel transitions
 panelOpt = 
@@ -87,7 +89,7 @@ photo.states =
 		y: photo_end.y
 		animationOptions: panelOpt
 
-slider_grp.states =
+slider.states =
 	show: 
 		opacity: 1
 		animationOptions: panelOpt
@@ -95,11 +97,11 @@ slider_grp.states =
 		opacity: 0
 		animationOptions: panelOpt
 
-slider_grp.onStateSwitchEnd ->
-	if (slider_grp.states.current == "collapse")
-		slider_grp.visible = false
+slider.onStateSwitchEnd ->
+	if (slider.states.current == "collapse")
+		slider.visible = false
 	else
-		slider_grp.visible = true
+		slider.visible = true
 
 progress_label.parent = setup
 progress_label.states = 
@@ -144,20 +146,48 @@ txt_breathe.stateSwitch("hide")
 
 # page transition
 btn_play.onClick ->
+	setTimer()
 	panel_start.animate("collapse")
 	photo.animate("collapse")
-	slider_grp.animate("collapse")
+	slider.animate("collapse")
 	Utils.delay panelOpt.time, ->
 		progress_label.animate("show")
 		Utils.delay panelOpt.time, ->
 			btn_pause.animate("show")
 			txt_breathe.animate("show")
+			startTimer()
 			
 btn_pause.onClick ->
+	stopTimer()
 	progress_label.animate("hide")
 	btn_pause.animate("hide")
 	txt_breathe.animate("hide")
 	Utils.delay panelOpt.time, ->
 		panel_start.animate("show")
 		photo.animate("show")
-		slider_grp.animate("show")
+		slider.animate("show")
+
+# countdown
+timerInterval = null
+currentTime = 0
+
+setTimer = () ->
+	currentTime = Math.round(slider.value) * 60
+	countdown.text = timeFormatter(currentTime)
+
+startTimer = () ->
+	timerInterval = Utils.interval 1, ->
+		updateCountDown()
+
+stopTimer = () ->
+	clearInterval(timerInterval)
+
+updateCountDown = () ->
+	currentTime--
+	countdown.text = timeFormatter(currentTime)
+
+timeFormatter = (seconds) ->
+	minutes = Math.floor(seconds / 60)
+	seconds = Math.round(seconds % 60)
+	if seconds < 10 then seconds = "0#{seconds}"
+	return "#{minutes}:#{seconds}"
