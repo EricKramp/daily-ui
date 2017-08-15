@@ -1,0 +1,832 @@
+[
+	{
+		"objectId": "6B6713CF-1852-4018-B45D-1ED383F8A556",
+		"kind": "artboard",
+		"name": "Apple_TV",
+		"originalName": "Apple TV",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": -430,
+			"y": -34,
+			"width": 1280,
+			"height": 720
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(217.40593112244898, 217.40593112244898, 217.40593112244898, 1)",
+		"image": {
+			"path": "images/Layer-Apple_TV-nki2nzez.png",
+			"frame": {
+				"x": -430,
+				"y": -34,
+				"width": 1280,
+				"height": 720
+			}
+		},
+		"children": [
+			{
+				"objectId": "5FF74E22-8F03-4F51-98D1-AEA30ABD482F",
+				"kind": "text",
+				"name": "title",
+				"originalName": "title",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 13,
+					"y": 13,
+					"width": 266,
+					"height": 57
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1,
+					"string": "TODAY",
+					"css": [
+						"/* TODAY: */",
+						"font-family: TsukuBRdGothic-Regular;",
+						"font-size: 74px;",
+						"color: #FFFFFF;"
+					]
+				},
+				"image": {
+					"path": "images/Layer-title-nuzgnzrf.png",
+					"frame": {
+						"x": 13,
+						"y": 13,
+						"width": 266,
+						"height": 57
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "4E8FD21B-DB7C-4275-8A79-12E21D594007",
+				"kind": "group",
+				"name": "today",
+				"originalName": "today",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -41,
+					"y": 0,
+					"width": 1498,
+					"height": 430
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "DD1441F3-487A-42EB-944A-064F41CB566E",
+						"kind": "group",
+						"name": "photo1",
+						"originalName": "photo1",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": -41,
+							"y": 0,
+							"width": 344,
+							"height": 430
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "882961FF-69A4-453F-A3A7-1C3BBBF34A04",
+								"kind": "group",
+								"name": "blur",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": -41,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-odgyotyx.png",
+									"frame": {
+										"x": -41,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "E41515D3-8C66-4D1E-BF9C-80E168E5438E",
+								"kind": "group",
+								"name": "focus",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": -41,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-rtqxnte1.png",
+									"frame": {
+										"x": -41,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "BF274121-C14D-4EF7-941D-8F9B95AC2E60",
+						"kind": "group",
+						"name": "photo2",
+						"originalName": "photo2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 256,
+							"y": 0,
+							"width": 344,
+							"height": 430
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "7783F2EE-E3E9-447D-BF14-493515DF467D",
+								"kind": "group",
+								"name": "blur1",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 256,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-nzc4m0yy.png",
+									"frame": {
+										"x": 256,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "8EA58B04-83EF-4EDD-9C17-7B740A3A48F2",
+								"kind": "group",
+								"name": "focus1",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 256,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-oevbnthc.png",
+									"frame": {
+										"x": 256,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "A0348578-EACB-4AF7-9192-A46C7D18B535",
+						"kind": "group",
+						"name": "photo3",
+						"originalName": "photo3",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 559,
+							"y": 0,
+							"width": 344,
+							"height": 430
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "4178CDA6-B958-4592-B76E-D868460EAC2F",
+								"kind": "group",
+								"name": "blur2",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 559,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-nde3oene.png",
+									"frame": {
+										"x": 559,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "C21F8991-94E7-4ABD-A3AD-58A95909C6E4",
+								"kind": "group",
+								"name": "focus2",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 559,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-qzixrjg5.png",
+									"frame": {
+										"x": 559,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "577075F6-C7A5-4563-9BD2-1CE912961F8E",
+						"kind": "group",
+						"name": "photo4",
+						"originalName": "photo4",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 853,
+							"y": 0,
+							"width": 345,
+							"height": 430
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "58F435E7-C479-4597-B8CB-2D6B26874070",
+								"kind": "group",
+								"name": "blur3",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 345,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 853,
+									"y": 0,
+									"width": 345,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-nthgndm1.png",
+									"frame": {
+										"x": 853,
+										"y": 0,
+										"width": 345,
+										"height": 430
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "7ABBE5E9-3E42-4876-83C3-F66C7E9405CB",
+								"kind": "group",
+								"name": "focus3",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 345,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 853,
+									"y": 0,
+									"width": 345,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-n0fcqku1.png",
+									"frame": {
+										"x": 853,
+										"y": 0,
+										"width": 345,
+										"height": 430
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "E1FDC51E-5C02-4477-AD2F-C85407E6050A",
+						"kind": "group",
+						"name": "photo5",
+						"originalName": "photo5",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 1113,
+							"y": 0,
+							"width": 344,
+							"height": 430
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "783C0820-F10C-448D-AC29-B1F88F1B0E31",
+								"kind": "group",
+								"name": "blur4",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 1113,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-nzgzqza4.png",
+									"frame": {
+										"x": 1113,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "C662C7FD-E832-4369-ABEE-5E9E376C0201",
+								"kind": "group",
+								"name": "focus4",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"layerFrame": {
+									"x": 1113,
+									"y": 0,
+									"width": 344,
+									"height": 430
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-qzy2mkm3.png",
+									"frame": {
+										"x": 1113,
+										"y": 0,
+										"width": 344,
+										"height": 430
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"objectId": "297BFF87-F9C4-4C7E-908C-E9A02702180D",
+				"kind": "group",
+				"name": "bottomRow",
+				"originalName": "bottomRow",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 17,
+					"y": 450,
+					"width": 1170,
+					"height": 252
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "871452F1-7549-468F-A028-7DA9B5AFE1CD",
+						"kind": "group",
+						"name": "faves",
+						"originalName": "faves",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 17,
+							"y": 450,
+							"width": 374,
+							"height": 252
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "0083BE98-1687-4220-97C6-680309D28152",
+								"kind": "group",
+								"name": "blur5",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 17,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-mda4m0jf.png",
+									"frame": {
+										"x": 17,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "BC4237BB-BF90-452B-958E-3D68F0C2DEC3",
+								"kind": "group",
+								"name": "focus5",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 17,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-qkm0mjm3.png",
+									"frame": {
+										"x": 17,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "CF219C95-0FC7-4C3F-AABA-5E287F445330",
+						"kind": "group",
+						"name": "map",
+						"originalName": "map",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 415,
+							"y": 450,
+							"width": 374,
+							"height": 252
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "E233FEA6-3AAB-4464-A743-4BA86AA5B508",
+								"kind": "group",
+								"name": "blur6",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 415,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-rtizm0zf.png",
+									"frame": {
+										"x": 415,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "EE17A778-1FAA-458B-9844-0FD492FEF985",
+								"kind": "group",
+								"name": "focus6",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 415,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-ruuxn0e3.png",
+									"frame": {
+										"x": 415,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "8AC0F1CE-6EE0-4A94-B974-3A5C17D096E4",
+						"kind": "group",
+						"name": "people",
+						"originalName": "people",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 813,
+							"y": 450,
+							"width": 374,
+							"height": 252
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "A79E1708-480F-4482-A6DE-253C5BFE4327",
+								"kind": "group",
+								"name": "blur7",
+								"originalName": "blur",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 813,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-blur-qtc5rte3.png",
+									"frame": {
+										"x": 813,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "7D0D118F-7FF0-4203-85C8-652BC1559666",
+								"kind": "group",
+								"name": "focus7",
+								"originalName": "focus",
+								"maskFrame": {
+									"x": 0,
+									"y": 0,
+									"width": 374,
+									"height": 252
+								},
+								"layerFrame": {
+									"x": 813,
+									"y": 450,
+									"width": 374,
+									"height": 252
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-focus-n0qwrdex.png",
+									"frame": {
+										"x": 813,
+										"y": 450,
+										"width": 374,
+										"height": 252
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"objectId": "93028CD4-9B2C-4532-9230-2A2A98DC94B3",
+				"kind": "group",
+				"name": "albums",
+				"originalName": "albums",
+				"maskFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 374,
+					"height": 252
+				},
+				"layerFrame": {
+					"x": 1211,
+					"y": 450,
+					"width": 374,
+					"height": 252
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-albums-otmwmjhd.png",
+					"frame": {
+						"x": 1211,
+						"y": 450,
+						"width": 374,
+						"height": 252
+					}
+				},
+				"children": [
+					{
+						"objectId": "4AD341F3-52E9-4B0C-9ADD-6B005F8F4739",
+						"kind": "text",
+						"name": "title1",
+						"originalName": "title",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 1224,
+							"y": 463,
+							"width": 255,
+							"height": 56
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "Albums",
+							"css": [
+								"/* Albums: */",
+								"font-family: TsukuBRdGothic-Regular;",
+								"font-size: 74px;",
+								"color: #FFFFFF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-title-nefemzqx.png",
+							"frame": {
+								"x": 1224,
+								"y": 463,
+								"width": 255,
+								"height": 56
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]
