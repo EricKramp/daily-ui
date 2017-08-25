@@ -37,9 +37,9 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 409,
-					"y": 212,
+					"y": 171,
 					"width": 1105,
-					"height": 692
+					"height": 733
 				},
 				"visible": true,
 				"metadata": {
@@ -58,7 +58,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 							"width": 1089,
 							"height": 676
 						},
-						"visible": true,
+						"visible": false,
 						"metadata": {
 							"opacity": 1
 						},
@@ -201,43 +201,16 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						]
 					},
 					{
-						"objectId": "7A316BBC-5384-44C9-A855-7892B87E49A1",
-						"kind": "group",
-						"name": "buy_btn",
-						"originalName": "buy-btn",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 1054,
-							"y": 551,
-							"width": 333,
-							"height": 83
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-buy_btn-n0ezmtzc.png",
-							"frame": {
-								"x": 1054,
-								"y": 551,
-								"width": 333,
-								"height": 83
-							}
-						},
-						"children": []
-					},
-					{
 						"objectId": "EE64C823-9E4D-4177-9727-0286946EEBF6",
 						"kind": "group",
 						"name": "text",
 						"originalName": "text",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 1047,
-							"y": 336,
-							"width": 315,
-							"height": 171
+							"x": 777,
+							"y": 171,
+							"width": 593,
+							"height": 417
 						},
 						"visible": true,
 						"metadata": {
@@ -246,13 +219,142 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"image": {
 							"path": "images/Layer-text-ruu2nem4.png",
 							"frame": {
-								"x": 1047,
-								"y": 336,
-								"width": 315,
-								"height": 171
+								"x": 777,
+								"y": 171,
+								"width": 593,
+								"height": 417
 							}
 						},
-						"children": []
+						"children": [
+							{
+								"objectId": "4A8D3195-FB01-4C2B-B749-C306C019CB37",
+								"kind": "group",
+								"name": "Group_2",
+								"originalName": "Group 2",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1164,
+									"y": 171,
+									"width": 122,
+									"height": 122
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Group_2-nee4rdmx.png",
+									"frame": {
+										"x": 1164,
+										"y": 171,
+										"width": 122,
+										"height": 122
+									}
+								},
+								"children": [
+									{
+										"objectId": "717526B0-66E7-4F20-A673-685AD9BB79EA",
+										"kind": "group",
+										"name": "Group_3",
+										"originalName": "Group 3",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1185,
+											"y": 207,
+											"width": 73,
+											"height": 45
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-Group_3-nze3nti2.png",
+											"frame": {
+												"x": 1185,
+												"y": 207,
+												"width": 73,
+												"height": 45
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "782A4753-7D3D-4CC7-B60A-11846B1D0066",
+								"kind": "group",
+								"name": "Group_5",
+								"originalName": "Group 5",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 1037,
+									"y": 469,
+									"width": 333,
+									"height": 119
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "7A316BBC-5384-44C9-A855-7892B87E49A1",
+										"kind": "group",
+										"name": "buy_btn",
+										"originalName": "buy-btn",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1037,
+											"y": 469,
+											"width": 333,
+											"height": 83
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-buy_btn-n0ezmtzc.png",
+											"frame": {
+												"x": 1037,
+												"y": 469,
+												"width": 333,
+												"height": 83
+											}
+										},
+										"children": []
+									},
+									{
+										"objectId": "73238BC7-35E1-4EC9-A953-3C0E7C978BF5",
+										"kind": "group",
+										"name": "Group_4",
+										"originalName": "Group 4",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 1062,
+											"y": 575,
+											"width": 284,
+											"height": 13
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-Group_4-nzmymzhc.png",
+											"frame": {
+												"x": 1062,
+												"y": 575,
+												"width": 284,
+												"height": 13
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
 					},
 					{
 						"objectId": "99EBF73B-6B9E-4B03-92D9-178B9D13E079",
@@ -262,7 +364,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 568,
-							"y": 281,
+							"y": 313,
 							"width": 373,
 							"height": 391
 						},
@@ -279,7 +381,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 568,
-									"y": 281,
+									"y": 313,
 									"width": 373,
 									"height": 391
 								},
@@ -291,7 +393,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"path": "images/Layer-ph_red_beige-rjc3qtjc.jpg",
 									"frame": {
 										"x": 568,
-										"y": 281,
+										"y": 313,
 										"width": 373,
 										"height": 391
 									}
@@ -306,7 +408,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 568,
-									"y": 281,
+									"y": 313,
 									"width": 373,
 									"height": 391
 								},
@@ -318,7 +420,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"path": "images/Layer-ph_gray_black-ntq2ruzc.jpg",
 									"frame": {
 										"x": 568,
-										"y": 281,
+										"y": 313,
 										"width": 373,
 										"height": 391
 									}
@@ -333,7 +435,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 568,
-									"y": 281,
+									"y": 313,
 									"width": 373,
 									"height": 391
 								},
@@ -345,7 +447,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"path": "images/Layer-ph_black_only-odg0qtm3.jpg",
 									"frame": {
 										"x": 568,
-										"y": 281,
+										"y": 313,
 										"width": 373,
 										"height": 391
 									}
@@ -360,7 +462,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 568,
-									"y": 281,
+									"y": 313,
 									"width": 373,
 									"height": 391
 								},
@@ -372,7 +474,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"path": "images/Layer-ph_black_green-rjdcntq2.jpg",
 									"frame": {
 										"x": 568,
-										"y": 281,
+										"y": 313,
 										"width": 373,
 										"height": 391
 									}
@@ -387,7 +489,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 568,
-									"y": 281,
+									"y": 313,
 									"width": 372,
 									"height": 391
 								},
@@ -399,7 +501,7 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"path": "images/Layer-ph_red_blue-q0jfmke3.jpg",
 									"frame": {
 										"x": 568,
-										"y": 281,
+										"y": 313,
 										"width": 372,
 										"height": 391
 									}

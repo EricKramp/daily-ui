@@ -15,6 +15,7 @@ transitionStates =
 		
 sketch.transitions.clip = true
 
+sketch.transitions.visible = true
 for item in sketch.transitions.children
 	item.states = transitionStates
 	item.stateSwitch("start")
