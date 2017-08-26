@@ -2,19 +2,19 @@
   "orientation" : 0,
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
-  "cachedDeviceHeight" : 1080,
+  "cachedDeviceHeight" : 900,
   "contentScale" : 1,
-  "cachedDeviceWidth" : 1920,
+  "cachedDeviceWidth" : 1440,
   "fullScreen" : false,
-  "deviceType" : "dell-xps",
-  "sharedPrototype" : 0,
+  "deviceType" : "apple-macbook-pro",
+  "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
 
   },
   "projectId" : "F863D755-E746-4DA3-AD77-C0639C7F107B",
   "deviceOrientation" : 0,
   "selectedHand" : "",
-  "showBezel" : false,
+  "showBezel" : true,
   "foldedCodeRanges" : [
 
   ],
