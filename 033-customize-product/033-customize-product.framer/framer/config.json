@@ -2,10 +2,11 @@
   "orientation" : 0,
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
-  "cachedDeviceHeight" : 0,
+  "cachedDeviceHeight" : 1080,
   "contentScale" : 1,
-  "cachedDeviceWidth" : 0,
-  "deviceType" : "fullscreen",
+  "cachedDeviceWidth" : 1920,
+  "fullScreen" : false,
+  "deviceType" : "dell-xps",
   "sharedPrototype" : 0,
   "propertyPanelToggleStates" : {
 
@@ -13,9 +14,9 @@
   "projectId" : "F863D755-E746-4DA3-AD77-C0639C7F107B",
   "deviceOrientation" : 0,
   "selectedHand" : "",
-  "showBezel" : true,
+  "showBezel" : false,
   "foldedCodeRanges" : [
-    "{865, 1232}"
+
   ],
-  "deviceScale" : 1
+  "deviceScale" : "fit"
 }

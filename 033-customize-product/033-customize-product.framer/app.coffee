@@ -23,8 +23,11 @@ for item in sketch.transitions.children
 for photo in sketch.photos.children
 	photo.visible = false
 
+for buy_btn in sketch.buy.children
+	buy_btn.visible = false
+
 # set default hat
-sketch.ph_red_blue.visible = true
+# sketch.ph_red_blue.visible = true
 
 sketch.Artboard.center()
 sketch.Artboard.backgroundColor = "rgba(0,0,0,0)"
@@ -34,11 +37,14 @@ Events.wrap(window).addEventListener "resize", (event) ->
 background = new Layer
 	width: Screen.width
 	height: Screen.height
-	gradient: 
-		start: "#05F"
-		end: "#0DF"
+	backgroundColor: "#E0E5EB"
+# 	gradient: 
+# 		start: "#E0E5EB"
+# 		end: "#E0E5EB"
 
 background.sendToBack()
+
+
 # button interaction
 showHat = (name) ->
 	for hat in sketch.photos.children
@@ -46,6 +52,13 @@ showHat = (name) ->
 			hat.visible = true
 		else
 			hat.visible = false
+	for buy_btn in sketch.buy.children
+		if buy_btn.name.indexOf(name) != -1
+			buy_btn.visible = true
+		else
+			buy_btn.visible = false
+
+showHat("red_blue")
 
 sketch.btn_red_blue.onTap ->
 	sketch.tn_red_blue.animate("default").onAnimationEnd ->

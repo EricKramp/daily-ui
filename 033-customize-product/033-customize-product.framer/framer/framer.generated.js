@@ -13,8 +13,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 		"layerFrame": {
 			"x": -481,
 			"y": 89,
-			"width": 1921,
-			"height": 1109
+			"width": 1440,
+			"height": 900
 		},
 		"visible": true,
 		"metadata": {},
@@ -24,8 +24,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 			"frame": {
 				"x": -481,
 				"y": 89,
-				"width": 1921,
-				"height": 1109
+				"width": 1440,
+				"height": 900
 			}
 		},
 		"children": [
@@ -36,14 +36,23 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 				"originalName": "Group",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 409,
-					"y": 171,
-					"width": 1105,
-					"height": 733
+					"x": 168,
+					"y": 58,
+					"width": 1106,
+					"height": 746
 				},
 				"visible": true,
 				"metadata": {
 					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Group-otq5rjkx.png",
+					"frame": {
+						"x": 168,
+						"y": 58,
+						"width": 1106,
+						"height": 746
+					}
 				},
 				"children": [
 					{
@@ -53,8 +62,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"originalName": "transitions",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 417,
-							"y": 220,
+							"x": 176.2496095783447,
+							"y": 119.45761947700635,
 							"width": 1089,
 							"height": 676
 						},
@@ -70,8 +79,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "tn_red_beige",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 417,
-									"y": 220,
+									"x": 176.2496095783447,
+									"y": 119.45761947700635,
 									"width": 1089,
 									"height": 676
 								},
@@ -82,8 +91,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-tn_red_beige-mtawmtzb.png",
 									"frame": {
-										"x": 417,
-										"y": 220,
+										"x": 176.2496095783447,
+										"y": 119.45761947700635,
 										"width": 1089,
 										"height": 676
 									}
@@ -97,8 +106,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "tn_gray_black",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 417,
-									"y": 220,
+									"x": 176.2496095783447,
+									"y": 119.45761947700635,
 									"width": 1089,
 									"height": 676
 								},
@@ -109,8 +118,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-tn_gray_black-rki5m0vb.png",
 									"frame": {
-										"x": 417,
-										"y": 220,
+										"x": 176.2496095783447,
+										"y": 119.45761947700635,
 										"width": 1089,
 										"height": 676
 									}
@@ -124,8 +133,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "tn_black_only",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 417,
-									"y": 220,
+									"x": 176.2496095783447,
+									"y": 119.45761947700635,
 									"width": 1089,
 									"height": 676
 								},
@@ -136,8 +145,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-tn_black_only-qkzgrty1.png",
 									"frame": {
-										"x": 417,
-										"y": 220,
+										"x": 176.2496095783447,
+										"y": 119.45761947700635,
 										"width": 1089,
 										"height": 676
 									}
@@ -151,8 +160,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "tn_black_green",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 417,
-									"y": 220,
+									"x": 176.2496095783447,
+									"y": 119.45761947700635,
 									"width": 1089,
 									"height": 676
 								},
@@ -163,8 +172,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-tn_black_green-n0zen0mz.png",
 									"frame": {
-										"x": 417,
-										"y": 220,
+										"x": 176.2496095783447,
+										"y": 119.45761947700635,
 										"width": 1089,
 										"height": 676
 									}
@@ -178,8 +187,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "tn_red_blue",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 417,
-									"y": 220,
+									"x": 176.2496095783447,
+									"y": 119.45761947700635,
 									"width": 1089,
 									"height": 676
 								},
@@ -190,10 +199,164 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-tn_red_blue-n0i3qujf.png",
 									"frame": {
-										"x": 417,
-										"y": 220,
+										"x": 176.2496095783447,
+										"y": 119.45761947700635,
 										"width": 1089,
 										"height": 676
+									}
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"objectId": "38A64E15-743F-453D-8A45-1562BFA1A4F5",
+						"kind": "group",
+						"name": "buy",
+						"originalName": "buy",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 725.2496095783447,
+							"y": 344.45761947700635,
+							"width": 395,
+							"height": 127
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "A999ED21-43AE-4AA6-B163-D8238F60FD73",
+								"kind": "group",
+								"name": "buy_red_beige",
+								"originalName": "buy_red_beige",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 726.2496095783447,
+									"y": 344.45761947700635,
+									"width": 395,
+									"height": 127
+								},
+								"visible": false,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-buy_red_beige-qtk5ouve.png",
+									"frame": {
+										"x": 726.2496095783447,
+										"y": 344.45761947700635,
+										"width": 395,
+										"height": 127
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "8B668D89-FF2C-4A16-9FD9-40492F094D1B",
+								"kind": "group",
+								"name": "buy_gray_black",
+								"originalName": "buy_gray_black",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 726.2496095783447,
+									"y": 344.45761947700635,
+									"width": 395,
+									"height": 127
+								},
+								"visible": false,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-buy_gray_black-oei2njhe.png",
+									"frame": {
+										"x": 726.2496095783447,
+										"y": 344.45761947700635,
+										"width": 395,
+										"height": 127
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "2D61F709-A907-4213-8A1B-6ADC3AA8F878",
+								"kind": "group",
+								"name": "buy_black_only",
+								"originalName": "buy_black_only",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 726.2496095783447,
+									"y": 344.45761947700635,
+									"width": 392,
+									"height": 127
+								},
+								"visible": false,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-buy_black_only-mkq2muy3.png",
+									"frame": {
+										"x": 726.2496095783447,
+										"y": 344.45761947700635,
+										"width": 392,
+										"height": 127
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "E6ACFA87-F091-45B6-AA97-26F60070B8FF",
+								"kind": "group",
+								"name": "buy_black_green",
+								"originalName": "buy_black_green",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 725.2496095783447,
+									"y": 344.45761947700635,
+									"width": 395,
+									"height": 127
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-buy_black_green-rtzbq0zb.png",
+									"frame": {
+										"x": 725.2496095783447,
+										"y": 344.45761947700635,
+										"width": 395,
+										"height": 127
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "7A316BBC-5384-44C9-A855-7892B87E49A1",
+								"kind": "group",
+								"name": "buy_red_blue",
+								"originalName": "buy_red_blue",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 726.2496095783447,
+									"y": 344.45761947700635,
+									"width": 395,
+									"height": 127
+								},
+								"visible": false,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-buy_red_blue-n0ezmtzc.png",
+									"frame": {
+										"x": 726.2496095783447,
+										"y": 344.45761947700635,
+										"width": 395,
+										"height": 127
 									}
 								},
 								"children": []
@@ -207,10 +370,10 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"originalName": "text",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 777,
-							"y": 171,
-							"width": 593,
-							"height": 417
+							"x": 741.2496095783447,
+							"y": 291.45761947700635,
+							"width": 369,
+							"height": 187
 						},
 						"visible": true,
 						"metadata": {
@@ -219,140 +382,39 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"image": {
 							"path": "images/Layer-text-ruu2nem4.png",
 							"frame": {
-								"x": 777,
-								"y": 171,
-								"width": 593,
-								"height": 417
+								"x": 741.2496095783447,
+								"y": 291.45761947700635,
+								"width": 369,
+								"height": 187
 							}
 						},
 						"children": [
 							{
-								"objectId": "4A8D3195-FB01-4C2B-B749-C306C019CB37",
+								"objectId": "52900211-B1A7-492D-A795-07FABAB92144",
 								"kind": "group",
-								"name": "Group_2",
-								"originalName": "Group 2",
+								"name": "Stacked_Group",
+								"originalName": "Stacked Group",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 1164,
-									"y": 171,
-									"width": 122,
-									"height": 122
+									"x": 830.2496095783447,
+									"y": 465.45761947700635,
+									"width": 260,
+									"height": 13
 								},
 								"visible": true,
 								"metadata": {
 									"opacity": 1
 								},
 								"image": {
-									"path": "images/Layer-Group_2-nee4rdmx.png",
+									"path": "images/Layer-Stacked_Group-nti5mday.png",
 									"frame": {
-										"x": 1164,
-										"y": 171,
-										"width": 122,
-										"height": 122
+										"x": 830.2496095783447,
+										"y": 465.45761947700635,
+										"width": 260,
+										"height": 13
 									}
 								},
-								"children": [
-									{
-										"objectId": "717526B0-66E7-4F20-A673-685AD9BB79EA",
-										"kind": "group",
-										"name": "Group_3",
-										"originalName": "Group 3",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1185,
-											"y": 207,
-											"width": 73,
-											"height": 45
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-Group_3-nze3nti2.png",
-											"frame": {
-												"x": 1185,
-												"y": 207,
-												"width": 73,
-												"height": 45
-											}
-										},
-										"children": []
-									}
-								]
-							},
-							{
-								"objectId": "782A4753-7D3D-4CC7-B60A-11846B1D0066",
-								"kind": "group",
-								"name": "Group_5",
-								"originalName": "Group 5",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 1037,
-									"y": 469,
-									"width": 333,
-									"height": 119
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"children": [
-									{
-										"objectId": "7A316BBC-5384-44C9-A855-7892B87E49A1",
-										"kind": "group",
-										"name": "buy_btn",
-										"originalName": "buy-btn",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1037,
-											"y": 469,
-											"width": 333,
-											"height": 83
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-buy_btn-n0ezmtzc.png",
-											"frame": {
-												"x": 1037,
-												"y": 469,
-												"width": 333,
-												"height": 83
-											}
-										},
-										"children": []
-									},
-									{
-										"objectId": "73238BC7-35E1-4EC9-A953-3C0E7C978BF5",
-										"kind": "group",
-										"name": "Group_4",
-										"originalName": "Group 4",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1062,
-											"y": 575,
-											"width": 284,
-											"height": 13
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-Group_4-nzmymzhc.png",
-											"frame": {
-												"x": 1062,
-												"y": 575,
-												"width": 284,
-												"height": 13
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							}
 						]
 					},
@@ -363,8 +425,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"originalName": "photos",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 568,
-							"y": 313,
+							"x": 328.2496095783447,
+							"y": 172.45761947700635,
 							"width": 373,
 							"height": 391
 						},
@@ -380,8 +442,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "ph_red_beige",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 568,
-									"y": 313,
+									"x": 328.2496095783447,
+									"y": 172.45761947700635,
 									"width": 373,
 									"height": 391
 								},
@@ -392,8 +454,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ph_red_beige-rjc3qtjc.jpg",
 									"frame": {
-										"x": 568,
-										"y": 313,
+										"x": 328.2496095783447,
+										"y": 172.45761947700635,
 										"width": 373,
 										"height": 391
 									}
@@ -407,8 +469,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "ph_gray_black",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 568,
-									"y": 313,
+									"x": 328.2496095783447,
+									"y": 172.45761947700635,
 									"width": 373,
 									"height": 391
 								},
@@ -419,8 +481,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ph_gray_black-ntq2ruzc.jpg",
 									"frame": {
-										"x": 568,
-										"y": 313,
+										"x": 328.2496095783447,
+										"y": 172.45761947700635,
 										"width": 373,
 										"height": 391
 									}
@@ -434,8 +496,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "ph_black_only",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 568,
-									"y": 313,
+									"x": 328.2496095783447,
+									"y": 172.45761947700635,
 									"width": 373,
 									"height": 391
 								},
@@ -446,8 +508,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ph_black_only-odg0qtm3.jpg",
 									"frame": {
-										"x": 568,
-										"y": 313,
+										"x": 328.2496095783447,
+										"y": 172.45761947700635,
 										"width": 373,
 										"height": 391
 									}
@@ -461,8 +523,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "ph_black_green",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 568,
-									"y": 313,
+									"x": 328.2496095783447,
+									"y": 172.45761947700635,
 									"width": 373,
 									"height": 391
 								},
@@ -473,8 +535,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ph_black_green-rjdcntq2.jpg",
 									"frame": {
-										"x": 568,
-										"y": 313,
+										"x": 328.2496095783447,
+										"y": 172.45761947700635,
 										"width": 373,
 										"height": 391
 									}
@@ -488,8 +550,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"originalName": "ph_red_blue",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 568,
-									"y": 313,
+									"x": 328.2496095783447,
+									"y": 172.45761947700635,
 									"width": 372,
 									"height": 391
 								},
@@ -500,8 +562,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ph_red_blue-q0jfmke3.jpg",
 									"frame": {
-										"x": 568,
-										"y": 313,
+										"x": 328.2496095783447,
+										"y": 172.45761947700635,
 										"width": 372,
 										"height": 391
 									}
@@ -517,8 +579,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"originalName": "buttons",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 580,
-							"y": 744,
+							"x": 339.2496095783447,
+							"y": 619.4576194770063,
 							"width": 762,
 							"height": 94
 						},
@@ -539,8 +601,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 									"height": 94
 								},
 								"layerFrame": {
-									"x": 1217,
-									"y": 744,
+									"x": 976.2496095783447,
+									"y": 619.4576194770063,
 									"width": 125,
 									"height": 94
 								},
@@ -551,8 +613,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-btn_red_beige-mzbcotq0.png",
 									"frame": {
-										"x": 1217,
-										"y": 744,
+										"x": 976.2496095783447,
+										"y": 619.4576194770063,
 										"width": 125,
 										"height": 94
 									}
@@ -567,12 +629,12 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
-									"width": 125.00000000000009,
+									"width": 125.0000000000001,
 									"height": 93.99999999999994
 								},
 								"layerFrame": {
-									"x": 1058,
-									"y": 744,
+									"x": 817.2496095783447,
+									"y": 619.4576194770063,
 									"width": 125,
 									"height": 94
 								},
@@ -583,8 +645,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-btn_gray_black-mkyynzze.png",
 									"frame": {
-										"x": 1058,
-										"y": 744,
+										"x": 817.2496095783447,
+										"y": 619.4576194770063,
 										"width": 125,
 										"height": 94
 									}
@@ -599,12 +661,12 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
-									"width": 125.00000000000009,
+									"width": 125.0000000000001,
 									"height": 93.99999999999994
 								},
 								"layerFrame": {
-									"x": 899,
-									"y": 744,
+									"x": 658.2496095783447,
+									"y": 619.4576194770063,
 									"width": 125,
 									"height": 94
 								},
@@ -615,8 +677,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-btn_black_only-oejdntje.png",
 									"frame": {
-										"x": 899,
-										"y": 744,
+										"x": 658.2496095783447,
+										"y": 619.4576194770063,
 										"width": 125,
 										"height": 94
 									}
@@ -631,12 +693,12 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
-									"width": 125.00000000000009,
+									"width": 125.0000000000001,
 									"height": 93.99999999999994
 								},
 								"layerFrame": {
-									"x": 739,
-									"y": 744,
+									"x": 498.2496095783447,
+									"y": 619.4576194770063,
 									"width": 125,
 									"height": 94
 								},
@@ -647,8 +709,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-btn_black_green-odg3mdk0.png",
 									"frame": {
-										"x": 739,
-										"y": 744,
+										"x": 498.2496095783447,
+										"y": 619.4576194770063,
 										"width": 125,
 										"height": 94
 									}
@@ -663,12 +725,12 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
-									"width": 125.00000000000009,
+									"width": 125.0000000000001,
 									"height": 93.99999999999994
 								},
 								"layerFrame": {
-									"x": 580,
-									"y": 744,
+									"x": 339.2496095783447,
+									"y": 619.4576194770063,
 									"width": 125,
 									"height": 94
 								},
@@ -679,8 +741,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-btn_red_blue-nkm1ounf.png",
 									"frame": {
-										"x": 580,
-										"y": 744,
+										"x": 339.2496095783447,
+										"y": 619.4576194770063,
 										"width": 125,
 										"height": 94
 									}
@@ -696,8 +758,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"originalName": "BG",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 409,
-							"y": 212,
+							"x": 168.2496095783447,
+							"y": 111.45761947700635,
 							"width": 1105,
 							"height": 692
 						},
@@ -708,8 +770,8 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 						"image": {
 							"path": "images/Layer-BG-njizouzg.png",
 							"frame": {
-								"x": 409,
-								"y": 212,
+								"x": 168.2496095783447,
+								"y": 111.45761947700635,
 								"width": 1105,
 								"height": 692
 							}
@@ -722,9 +784,9 @@ window.__imported__["033-customize-product@2x/layers.json.js"] = [
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};
-if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":1,"selectedHand":"","deviceType":"fullscreen","contentScale":1,"hideBezel":false,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceView = {"deviceScale":"fit","selectedHand":"","deviceType":"dell-xps","contentScale":1,"hideBezel":true,"orientation":0};
 }
-if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":1,"selectedHand":"","deviceType":"fullscreen","contentScale":1,"hideBezel":false,"orientation":0};
+if (window.Framer) {window.Framer.Defaults.DeviceComponent = {"deviceScale":"fit","selectedHand":"","deviceType":"dell-xps","contentScale":1,"hideBezel":true,"orientation":0};
 }
 window.FramerStudioInfo = {"deviceImagesUrl":"\/_server\/resources\/DeviceImages","documentTitle":"033-customize-product.framer"};
 
