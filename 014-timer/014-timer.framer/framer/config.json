@@ -1,7 +1,7 @@
 {
   "orientation" : 0,
   "updateDelay" : 0.3,
-  "designModeSelected" : 1,
+  "designModeSelected" : 0,
   "cachedDeviceHeight" : 720,
   "contentScale" : 1,
   "fullScreen" : false,
@@ -11,7 +11,7 @@
   "propertyPanelToggleStates" : {
     "Filters" : true
   },
-  "projectId" : "E5BB1E17-7532-445A-8CA7-44BE8F998F8D",
+  "projectId" : "9BAEAC78-8562-432C-8BA9-B4A44410F1D3",
   "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,
